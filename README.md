@@ -25,7 +25,7 @@
 - 💻 I’m currently working on Nuclea Solutions as a Front-End Developer
 - 📖 I’m currently learning Next.JS and Typescript 
 - 💬 Ask me about React and JavaScript
-- 📫 How to reach me: [josue.lara777778@gmail.com](mailto:josue.lara77778@gmail.com?Subject=Contact%20from%20Github)
+- 📫 How to reach me: [josue.lara77778@gmail.com](mailto:josue.lara77778@gmail.com?Subject=Contact%20from%20Github)
 
 ----
 
