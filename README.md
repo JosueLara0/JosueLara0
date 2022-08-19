@@ -22,8 +22,8 @@
 
 ### 🔭 About Me:
 
-- 💻 I’m currently working on Nuclea Solutions as a Front-End Developer
-- 📖 I’m currently learning Next.JS and Typescript 
+- 💻 I’m currently working on Corebiz as a Fullstack Developer
+- 📖 I’m currently learning VTEX 
 - 💬 Ask me about React and JavaScript
 - 📫 How to reach me: [josue.lara77778@gmail.com](mailto:josue.lara77778@gmail.com?Subject=Contact%20from%20Github)
 
